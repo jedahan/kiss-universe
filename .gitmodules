@@ -1,0 +1,9 @@
+[submodule "mywayland"]
+	path = mywayland
+	url = https://github.com/sdsddsd1/mywayland.git
+[submodule "kiss-games"]
+	path = kiss-games
+	url = https://github.com/sdsddsd1/kiss-games.git
+[submodule "community"]
+	path = community
+	url = https://github.com/kisslinux/community.git
