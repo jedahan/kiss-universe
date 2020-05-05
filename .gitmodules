@@ -10,3 +10,6 @@
 [submodule "kiss-dbus"]
 	path = kiss-dbus
 	url = https://github.com/periish/kiss-dbus
+[submodule "kiss-llvm"]
+	path = kiss-llvm
+	url = https://github.com/konimex/kiss-llvm
