@@ -7,3 +7,6 @@
 [submodule "community"]
 	path = community
 	url = https://github.com/kisslinux/community.git
+[submodule "kiss-dbus"]
+	path = kiss-dbus
+	url = https://github.com/periish/kiss-dbus
