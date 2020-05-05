@@ -22,3 +22,6 @@
 [submodule "wyverkiss"]
 	path = wyverkiss
 	url = https://github.com/wyvertux/wyverkiss
+[submodule "repo"]
+	path = repo
+	url = https://github.com/kisslinux/repo.git
