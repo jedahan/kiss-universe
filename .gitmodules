@@ -13,3 +13,6 @@
 [submodule "kiss-llvm"]
 	path = kiss-llvm
 	url = https://github.com/konimex/kiss-llvm
+[submodule "kiss-zfs"]
+	path = kiss-zfs
+	url = https://github.com/jedavies-dev/kiss-zfs
