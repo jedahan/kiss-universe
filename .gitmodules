@@ -16,3 +16,6 @@
 [submodule "kiss-zfs"]
 	path = kiss-zfs
 	url = https://github.com/jedavies-dev/kiss-zfs
+[submodule "kiss-flatpak"]
+	path = kiss-flatpak
+	url = https://github.com/dylanaraps/kiss-flatpak
